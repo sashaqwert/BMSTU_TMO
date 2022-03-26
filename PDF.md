@@ -1,4 +1,8 @@
-# Создание отчёта из ноутбука
+# Создание отчёта, если исправен экспорт в HTML
+
+Лабораторные работы 3 и далее и отчёты по РК созданы [этим](https://github.com/Zaburunier/MLT_Labs/blob/master/%D0%9F%D0%BE%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%87%D1%91%D1%82%D0%BE%D0%B2%20%D0%B8%D0%B7%20%D0%BD%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA%D0%BE%D0%B2/README.md) способом с добавлением шапки в [ABBYY FineReader](https://pdf.abbyy.com/ru/) (программа платная)
+
+# Создание отчёта из ноутбука, если полностью сломан nbconvert
 
 1. Экспорьтровать ноутбук в PDF через сайт https://htmtopdf.herokuapp.com/ipynbviewer/
 2. В Word создать шапку (1 лист А4)
